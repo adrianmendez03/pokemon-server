@@ -1,0 +1,22 @@
+{
+  "name": "pokemon_express_exercise",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/rRKtN1B.jpg)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.generalassemb.ly/adrianmndz03/pokemon_express_exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
